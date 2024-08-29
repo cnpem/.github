@@ -1,12 +1,12 @@
 <h2 align="center"> &nbsp; Welcome to the Brazilian Center for Research in Energy and Materials! 👋</h2>
 
 <p align="center">
-  <a href="https://github.com/LBC-LNBio"><img src="https://komarev.com/ghpvc/?username=cnpem&color=46BC99&label=Visitors"></a>
-  <a href="https://github.com/LBC-LNBio"><img src="https://img.shields.io/github/followers/cnpem?label=GitHub%20Followers&color=46BC99"></a>
+  <a href="https://github.com/cnpem"><img src="https://komarev.com/ghpvc/?username=cnpem&color=46BC99&label=Visitors"></a>
+  <a href="https://github.com/cnpem"><img src="https://img.shields.io/github/followers/cnpem?label=GitHub%20Followers&color=46BC99"></a>
   <a href="https://github.com/orgs/cnpem/repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.png?v=103"/></a>
 </p>
 
-<p align="center"><img width=800 alt="Banner" src="https://raw.githubusercontent.com/LBC-LNBio/.github/main/profile/images/banner-cnpem.png"></img></p>
+<p align="center"><img width=800 alt="Banner" src="https://raw.githubusercontent.com/cnpem/.github/main/profile/images/banner-cnpem.png"></img></p>
 
 <h3 align="left"> &nbsp;👥 About Us</h3>
 
