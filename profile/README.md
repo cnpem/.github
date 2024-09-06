@@ -13,7 +13,7 @@
 <p align=”justify>
 The Brazilian Center for Research in Energy and Materials (<a href="https://cnpem.br">CNPEM</a>)  is a private, non-profit organization overseen by the Ministry of Science, Technology, and Innovation (MCTI), located in Campinas, São Paulo, Brazil. 
 
-The Center is home to [Sirius](https://lnls.cnpem.br/sirius/) and operates four national laboratories, that are:
+The Center is home to [Sirius](https://lnls.cnpem.br/sirius/) and is composed of:
 </p>
 
 <p>
@@ -22,6 +22,7 @@ The Center is home to [Sirius](https://lnls.cnpem.br/sirius/) and operates four 
     <li>Brazilian Biosciences National Laboratory (<a href="https://lnbio.cnpem.br/)">LNBio</a>)</li>
     <li>Brazilian Biorenewables National Laboratory (<a href="https://lnbr.cnpem.br/)">LNBR</a>)</li>
     <li>Brazilian Nanotechnology National Laboratory (<a href="https://lnnano.cnpem.br/)">LNNano</a>)</li>
+    <li>Deputy Director Technology (DAT)</li>
   </ul> 
 </p>
 
