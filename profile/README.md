@@ -15,7 +15,7 @@ The Brazilian Center for Research in Energy and Materials (<a href="https://cnpe
 </p>
 
 <p align="justify">
-The Center is home to <a href="https://lnls.cnpem.br/sirius/">Sirius</a> and is composed of:
+The Center is home to <a href="https://lnls.cnpem.br/sirius/">Sirius</a> and <a href="https://cnpem.br/orion/">Orion</a>, and is composed of:
 </p>
 
 <ul>
