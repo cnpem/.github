@@ -10,21 +10,21 @@
 
 <h3 align="left"> &nbsp;👥 About Us</h3>
 
-<p align=”justify>
-The Brazilian Center for Research in Energy and Materials (<a href="https://cnpem.br">CNPEM</a>)  is a private, non-profit organization overseen by the Ministry of Science, Technology, and Innovation (MCTI), located in Campinas, São Paulo, Brazil. 
-
-The Center is home to [Sirius](https://lnls.cnpem.br/sirius/) and is composed of:
+<p align="justify">
+The Brazilian Center for Research in Energy and Materials (<a href="https://cnpem.br">CNPEM</a>) is a private, non-profit organization overseen by the Ministry of Science, Technology, and Innovation (MCTI), located in Campinas, São Paulo, Brazil.
 </p>
 
-<p>
-  <ul>
-    <li>Brazilian Synchrotron Light National Laboratory (<a href="https://lnls.cnpem.br/)">LNLS</a>)</li>
-    <li>Brazilian Biosciences National Laboratory (<a href="https://lnbio.cnpem.br/)">LNBio</a>)</li>
-    <li>Brazilian Biorenewables National Laboratory (<a href="https://lnbr.cnpem.br/)">LNBR</a>)</li>
-    <li>Brazilian Nanotechnology National Laboratory (<a href="https://lnnano.cnpem.br/)">LNNano</a>)</li>
-    <li>Deputy Director Technology (DAT)</li>
-  </ul> 
+<p align="justify">
+The Center is home to <a href="https://lnls.cnpem.br/sirius/">Sirius</a> and is composed of:
 </p>
+
+<ul>
+  <li>Brazilian Synchrotron Light National Laboratory (<a href="https://lnls.cnpem.br/)">LNLS</a>)</li>
+  <li>Brazilian Biosciences National Laboratory (<a href="https://lnbio.cnpem.br/)">LNBio</a>)</li>
+  <li>Brazilian Biorenewables National Laboratory (<a href="https://lnbr.cnpem.br/)">LNBR</a>)</li>
+  <li>Brazilian Nanotechnology National Laboratory (<a href="https://lnnano.cnpem.br/)">LNNano</a>)</li>
+  <li>Deputy Director Technology (DAT)</li>
+</ul> 
 
 <!-- <h3>📚 &nbsp;Featured Publications</h3>
 
