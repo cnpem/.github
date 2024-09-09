@@ -23,7 +23,7 @@ The Center is home to <a href="https://lnls.cnpem.br/sirius/">Sirius</a> and <a 
   <li>Brazilian Biosciences National Laboratory (<a href="https://lnbio.cnpem.br/)">LNBio</a>)</li>
   <li>Brazilian Biorenewables National Laboratory (<a href="https://lnbr.cnpem.br/)">LNBR</a>)</li>
   <li>Brazilian Nanotechnology National Laboratory (<a href="https://lnnano.cnpem.br/)">LNNano</a>)</li>
-  <li>Deputy Director Technology (DAT)</li>
+  <li>Technology Directorate (DAT)</li>
 </ul> 
 
 <!-- <h3>📚 &nbsp;Featured Publications</h3>
